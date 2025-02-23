@@ -1,7 +1,5 @@
 /*
  * Circuit.c
- * Creator: George Ferguson
- * Created: Sun Nov 27 14:08:51 2016
  */
 
 #include <stdio.h>
