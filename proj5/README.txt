@@ -1,7 +1,4 @@
-CSC 173: Computation and Formal Systems 
-Project 5: Logic and Boolean Circuits 
-Shadiya Akhter: sakhter@u.rochester.edu
-Jessica Chen: jchen204@u.rochester.edu
+Project: Logic and Boolean Circuits 
 
 Once in command line and project folder is included →
 
