@@ -1,7 +1,5 @@
 /*
  * File: strdup.c
- * Creator: George Ferguson
- * Created: Tue Nov 29 14:47:55 2022
  */
 #include <stdlib.h>
 #include <string.h>
