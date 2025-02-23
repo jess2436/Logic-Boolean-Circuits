@@ -1,8 +1,5 @@
 /*
  * File: BoolCircuits.h
- * Authors: Jessica Chen & Shadiya Akhter
- * CSC 173 | George Ferguson | Project 5
- * Last Modified: 12/01/24
  */
 
 #ifndef BOOLCIRCUITS_H_
